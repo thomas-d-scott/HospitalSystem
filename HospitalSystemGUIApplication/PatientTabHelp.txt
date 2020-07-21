@@ -1,0 +1,51 @@
+﻿PATIENT TAB HELP PAGE
+
+Welcome to the Patient Tab Help Page.
+
+There are 3 main buttons on this tab. 
+
+1 - Add Patient.
+2 - Remove Patient.
+3 - List All Patients.
+
+In addition there is a search box that allows the user to enter a Patients unique NHS Number and search for them.
+There is also a clear button which can be used to clear the display box.
+
+ADD PATIENT
+
+The Add Patient window is used to add a new patient to the hospital system. Doctors and Nurses can do this.
+To add a patient to the system you will need 5 pieces of information. These are:
+
+- Full Name (Letters A-Z only)
+- Address (Letters and Numbers only)
+- Town (Letters A-Z only)
+- Postcode (Letters and Numbers only, 6-8 characters long)
+- Consultant (Chosen from the list)
+
+Once all of these pieces of data have been input into the add patient form, the user should click
+the add patient button and the system should add the patient to the system. If an error has occured an
+error message will appear on screen to inform the user.
+
+Alternatively, the user can click on the cancel button to close the window and return to the home page.
+
+REMOVE PATIENT
+
+The remove patient window is used to remove a patient from the system. ONLY DOCTORS HAVE THIS PRIVELLAGE. 
+To remove a patient from the system, simply select the desired patient to be removed from the list.
+
+A message box should appear on screen to inform the user if a patient has been successfully removed.
+
+Alternatively, the user can click on the cancel button to close the window and return to the home page.
+
+LIST ALL PATIENTS
+
+Clicking on the list all patients button will display all patients stored in the system on the display box. 
+This can be done by both doctors and nurses. Alternatively, the user can search for a specific patient by
+using the search function.
+
+To use the search function, type in a patients unique NHS Number and click on the search button. To clear 
+the display box and search box click on the clear button.
+
+For any other information, contact developer at mrtomscott98@gmail.com
+
+Thank you.

@@ -1,0 +1,14 @@
+﻿STAFF MEMBER TAB HELP
+
+This tab is used to display the staff members held in the system
+
+This functionality extends to displaying just doctors or just nurses.
+
+Like the patient tab, you can search for a specific staff member by 
+entering a unique staff number into the search box.
+
+To clear the display box simply click on the clear button.
+
+For more information please contact developers at mrtomscott98@gmail.com
+
+Thank you.

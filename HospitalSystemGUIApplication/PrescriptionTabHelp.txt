@@ -1,0 +1,51 @@
+﻿PRESCRIPTION TAB HELP
+
+The prescription tab deals with the prescribing of drugs and the removal of drugs from a prescription.
+This page can only be accessed by doctors, therfore make sure you are signed in as a doctor to unlock 
+these features.
+
+There are again, 3 main buttons on this page, these are:
+
+1 - View Prescription
+2 - Prescribe Drug
+3 - Remove Drug
+
+VIEW PRESCRIPTION
+
+To view a patients prescription, you can do one of two things. One; you can select a patient from the 
+list above the view prescription button. Two; you can again use the search function to get a specific 
+patients prescription. To clear the display box, click the clear button.
+
+PRESCRIBE DRUG
+
+When the user clicks on the prescribe drug button, the prescribe drug window will be opened. This contains
+a form consisting of 6 key parts. These parts are:
+
+1 - Patient (Chosen from list)
+2 - Drug Name (Cannot include numbers or special characters. A-Z only.)
+3 - Dosage (Must be a numerical value. Cannot be 0)
+4 - Instructions (Can include anything except special characters.)
+5 - Date (Chosen from date picker. Should be todays date)
+6 - Doctor (Chosen from list)
+
+When the form is completed, the user clicks on the prescribe drug button, where, if successful, a
+success message will appear. If not then an error message will appear.
+
+Alternatively, the user can click the cancel button to return to the home page.
+
+REMOVE DRUG
+
+When the user clicks on the remove drug button, the remove drug window opens.
+This page has 2 main parts, these are:
+
+1 - Patient (Chosen from list)
+2 - Drug (Chosen from list)
+
+When the details are completed, the user clicks on the remove drug button, where a success message
+will pop up on screen, otherwise an error message appears.
+
+Alternatively, the user can click the cancel button to return to the home page.
+
+For more information please contact developers at mrtomscott98@gmail.com
+
+Thank you.

@@ -1,0 +1,220 @@
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.config
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.pdb
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.cache
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.lref
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.g.resources
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.Properties.Resources.resources
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.GenerateResource.cache
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.CoreCompileInputs.cache
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.pdb
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.config
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.pdb
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.pdb
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csprojResolveAssemblyReference.cache
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\App.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.cache
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.lref
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.baml
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.baml
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.baml
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.baml
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.baml
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.baml
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.baml
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.g.resources
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.Properties.Resources.resources
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.GenerateResource.Cache
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_Content.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.manifest
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.application
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe.manifest
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.application
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PatientTabHelp.txt
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PrescriptionTabHelp.txt
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\StaffMemberTabHelp.txt
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\TreatmentCardTabHelp.txt
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\LoginInformation.txt
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\App.g.cs
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.baml
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.baml
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.baml
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.baml
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.baml
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.baml
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.baml
+G:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csprojAssemblyReference.cache
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PatientTabHelp.txt
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PrescriptionTabHelp.txt
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\StaffMemberTabHelp.txt
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\TreatmentCardTabHelp.txt
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\LoginInformation.txt
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.manifest
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.application
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_Content.g.cs
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe.manifest
+E:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.application
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.config
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.pdb
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PatientTabHelp.txt
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PrescriptionTabHelp.txt
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\StaffMemberTabHelp.txt
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\TreatmentCardTabHelp.txt
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\LoginInformation.txt
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.manifest
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.application
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.pdb
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csprojResolveAssemblyReference.cache
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\App.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_Content.g.cs
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.cache
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.lref
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.baml
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.baml
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.baml
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.baml
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.baml
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.baml
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.baml
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.g.resources
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.Properties.Resources.resources
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.GenerateResource.Cache
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe.manifest
+D:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.application
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.config
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.pdb
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\App.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_Content.g.cs
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.cache
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.lref
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.baml
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.baml
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.baml
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.baml
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.baml
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.baml
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.baml
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.g.resources
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.Properties.Resources.resources
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.GenerateResource.Cache
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PatientTabHelp.txt
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PrescriptionTabHelp.txt
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\StaffMemberTabHelp.txt
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\TreatmentCardTabHelp.txt
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\LoginInformation.txt
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.manifest
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.application
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.pdb
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csprojAssemblyReference.cache
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.CoreCompileInputs.cache
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe.manifest
+F:\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.application
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PatientTabHelp.txt
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PrescriptionTabHelp.txt
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\StaffMemberTabHelp.txt
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\TreatmentCardTabHelp.txt
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\LoginInformation.txt
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.config
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.manifest
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.application
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.pdb
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csprojAssemblyReference.cache
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\App.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_Content.g.cs
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.cache
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.lref
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.baml
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.baml
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.baml
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.baml
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.baml
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.baml
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.baml
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.g.resources
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.Properties.Resources.resources
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.GenerateResource.cache
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.CoreCompileInputs.cache
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe.manifest
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.application
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe
+D:\Other\HND\Graded Unit\2 - GUI Application\Implementation\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.pdb
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csprojAssemblyReference.cache
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\App.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_Content.g.cs
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.cache
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication_MarkupCompile.lref
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AddPatient.baml
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\AdministerMedication.baml
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\MainWindow.baml
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\PrescribeDrug.baml
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RecordMeasurement.baml
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemoveDrug.baml
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\RemovePatient.baml
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.g.resources
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.Properties.Resources.resources
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.GenerateResource.cache
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.csproj.CoreCompileInputs.cache
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.pdb
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PatientTabHelp.txt
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\PrescriptionTabHelp.txt
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\StaffMemberTabHelp.txt
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\TreatmentCardTabHelp.txt
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\LoginInformation.txt
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.config
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe.manifest
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.application
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.exe
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\bin\Debug\HospitalSystemGUIApplication.pdb
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.exe.manifest
+C:\Users\tscot\Desktop\HospitalSystemGUIApplication\HospitalSystemGUIApplication\obj\Debug\HospitalSystemGUIApplication.application

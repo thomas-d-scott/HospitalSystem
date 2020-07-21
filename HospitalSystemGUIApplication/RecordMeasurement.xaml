@@ -1,0 +1,29 @@
+﻿<Window x:Class="HospitalSystemGUIApplication.RecordMeasurement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HospitalSystemGUIApplication"
+        mc:Ignorable="d"
+        Title="Record Measurement" Height="510.553" Width="376.102" WindowStartupLocation="CenterScreen" Background="#FFFDFFD2" WindowStyle="None">
+    <Grid Background="#FFBFB1B1">
+        <TextBlock x:Name="txtblkRecordMeasurementTitle" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Record Measurement" VerticalAlignment="Top" Height="46" Width="330" FontFamily="Arial" FontWeight="Bold" TextDecorations="Underline" FontSize="24" TextAlignment="Center"/>
+        <ComboBox x:Name="cmbPatient" HorizontalAlignment="Left" Margin="190,78,0,0" VerticalAlignment="Top" Width="150"/>
+        <DatePicker x:Name="dpkrMeasurementDate" HorizontalAlignment="Left" Margin="190,129,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="txtTime" HorizontalAlignment="Left" Height="23" Margin="190,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="txtBloodPressureSystolic" HorizontalAlignment="Left" Height="23" Margin="190,229,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <TextBox x:Name="txtTemperature" HorizontalAlignment="Left" Height="23" Margin="190,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <ComboBox x:Name="cmbNurse" HorizontalAlignment="Left" Margin="190,382,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button x:Name="btnRecordMeasurement" Content="Record Measurement" HorizontalAlignment="Left" Margin="190,439,0,0" VerticalAlignment="Top" Width="150" Height="40" Click="btnRecordMeasurement_Click" Background="#FF58D996"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="10,439,0,0" VerticalAlignment="Top" Width="145" Height="40" Click="btnCancel_Click" Background="#FFCD501F"/>
+        <Label x:Name="lblPatient" Content="Patient:" HorizontalAlignment="Left" Margin="10,77,0,0" VerticalAlignment="Top" Width="175" Height="39" FontFamily="Arial Black"/>
+        <Label x:Name="lblDate" Content="Measurement Date:" HorizontalAlignment="Left" Margin="10,128,0,0" VerticalAlignment="Top" Width="175" Height="37" FontFamily="Arial Black"/>
+        <Label x:Name="lblTime" Content="Measurement Time:" HorizontalAlignment="Left" Margin="10,178,0,0" VerticalAlignment="Top" Width="175" Height="35" FontFamily="Arial Black"/>
+        <Label x:Name="lblSysBP" Content="Systolic Blood Pressure:" HorizontalAlignment="Left" Margin="10,228,0,0" VerticalAlignment="Top" Width="175" Height="24" FontFamily="Arial Black"/>
+        <Label x:Name="lblTemp" Content="Temperature" HorizontalAlignment="Left" Margin="10,329,0,0" VerticalAlignment="Top" Width="175" Height="38" FontFamily="Arial Black"/>
+        <Label x:Name="lblNurse" Content="Nurse" HorizontalAlignment="Left" Margin="10,381,0,0" VerticalAlignment="Top" Width="175" Height="39" FontFamily="Arial Black"/>
+        <TextBox x:Name="txtBloodPressureDiastolic" HorizontalAlignment="Left" Height="23" Margin="190,268,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <Label x:Name="lblDiaBP" Content="Diastolic Blood Pressure:" HorizontalAlignment="Left" Margin="10,268,0,0" VerticalAlignment="Top" Width="175" Height="24" FontFamily="Arial Black"/>
+
+    </Grid>
+</Window>

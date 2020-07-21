@@ -1,0 +1,35 @@
+﻿LOGIN INFORMATION HELP 
+
+This application has some security implemented to demonstrate how the data held within the 
+application will be protected and comply with data protection.
+
+To see some details and perform certain actions a specific user will have to be signed in. 
+
+There are 3 types of users in this prototype application, these are:
+
+1 - Doctor
+2 - Nurse
+3 - Ancillary Nurse
+
+Below are the usernames and passwords of these demo users and details of their levels of access.
+
+DOCTOR
+
+username - doctor
+password - doctor1
+
+The Doctor has access to most of the system, except from the record measurements and administer medication capabilities. 
+
+NURSE
+
+username - nurse
+password - nurse1
+
+The nurse has access to most of the system with exception to removing patients, viewing prescriptions, prescribing and removing medication.
+
+ANCILLARY NURSE
+
+username - ancillarynurse
+password - ancillarynurse1
+
+The ancillary nurse can do the same as the regular nurse with the exception of administering medication, as they are not qualified.

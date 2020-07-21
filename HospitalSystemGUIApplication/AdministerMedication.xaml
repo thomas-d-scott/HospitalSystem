@@ -1,0 +1,24 @@
+﻿<Window x:Class="HospitalSystemGUIApplication.AdministerMedication"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HospitalSystemGUIApplication"
+        mc:Ignorable="d"
+        Title="Administer Medication" Height="389.69" Width="212.277" WindowStartupLocation="CenterScreen" Background="#FFFDFFD2" WindowStyle="None">
+    <Grid Background="#FFBFB1B1">
+        <TextBlock x:Name="txtblkAdminDrugTitle" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Administer Medication" VerticalAlignment="Top" Height="25" Width="186" FontFamily="Arial" FontWeight="Bold" TextDecorations="Underline" FontSize="16" TextAlignment="Center"/>
+        <ComboBox x:Name="cmbPatient" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Width="174" SelectionChanged="cmbPatient_SelectionChanged"/>
+        <ComboBox x:Name="cmbDrug" HorizontalAlignment="Left" Margin="10,128,0,0" VerticalAlignment="Top" Width="174"/>
+        <DatePicker x:Name="dpkrAdministerDate" HorizontalAlignment="Left" Margin="10,180,0,0" VerticalAlignment="Top" Width="174"/>
+        <TextBox x:Name="txtTime" HorizontalAlignment="Left" Height="23" Margin="10,237,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174"/>
+        <ComboBox x:Name="cmbNurse" HorizontalAlignment="Left" Margin="10,296,0,0" VerticalAlignment="Top" Width="174"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="10,336,0,0" VerticalAlignment="Top" Width="68" Height="30" Click="btnCancel_Click" Background="#FFED8686"/>
+        <Button x:Name="btnAdministerMedication" Content="Administer" HorizontalAlignment="Left" Margin="113,336,0,0" VerticalAlignment="Top" Width="71" Height="30" Click="btnAdministerMedication_Click" Background="#FF58D996"/>
+        <Label x:Name="lblPatient" Content="Patient:" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="174" Height="30" FontFamily="Arial Black"/>
+        <Label x:Name="lblDrug" Content="Drug:" HorizontalAlignment="Left" Margin="10,96,0,0" VerticalAlignment="Top" Width="174" Height="32" FontFamily="Arial Black"/>
+        <Label x:Name="lblDate" Content="Administer Date:" HorizontalAlignment="Left" Margin="10,152,0,0" VerticalAlignment="Top" Width="174" Height="28" FontFamily="Arial Black"/>
+        <Label x:Name="lblTime" Content="Administer Time:" HorizontalAlignment="Left" Margin="10,209,0,0" VerticalAlignment="Top" Width="174" Height="23" FontFamily="Arial Black"/>
+        <Label x:Name="lblNurse" Content="Nurse:" HorizontalAlignment="Left" Margin="10,269,0,0" VerticalAlignment="Top" Width="174" Height="22" FontFamily="Arial Black"/>
+    </Grid>
+</Window>

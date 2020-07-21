@@ -1,0 +1,61 @@
+﻿TREATMENT CARD TAB HELP
+
+The treatment card tab deals with the administering of medication and the recording of measurements.
+
+There are 3 main buttons on this page, these are:
+
+1 - View Treatment Card
+2 - Administer Medication
+3 - Record Measurement
+
+VIEW TREATMENT CARD
+
+To view a patients treatment card, you can do one of two things. One; you can select a patient from the 
+list above the view treatment card button. Two; you can again use the search function to get a specific 
+patients treatment card. To clear the display box, click the clear button. 
+
+ADMINISTER MEDICATION
+
+Only Nurses are qualified to administer medication, therefor the user must be logged in as a nurse. Ancillary
+nurses cannot perform this action. Doctors theoreticaly can do this but adminstering medication is often a
+task that nurses complete, so for the purposes of this prototype, doctors cannot do this either.
+
+When the user clicks on the administer medication button, the administer medication window will pop up on screen.
+This is where the nurse will choose which patient to administer a drug to. 
+
+This page has 5 key parts required to administer medication, these are:
+
+1 - Patient (Chosen from the list)
+2 - Drug (Chosen from the list)
+3 - Date (Chosen from date picker. Should be todays date)
+4 - Time (Should be numerical and be between 0000 and 2359)
+5 - Nurse (Chosen from the list)
+
+Once all details are inputted into the form, click on the administer medication button, if successful a 
+confirmation message should appear on screen, an error message should appear on screen otherwise.
+
+Alternatively click on the cancel button to close the administer medication window.
+
+RECORD MEASUREMENT
+
+Both ancillary nurses and regular nurses can record measurements. 
+
+When the user clicks on record measurement button, the record measurement window opens, where the nurse
+will fill out the form to record a measurment. The form contains 7 key parts, these are:
+
+1 - Patient (Chosen from the list)
+2 - Date (Chosen from date picker. Should be todays date)
+3 - Time (Should be numerical and be between 0000 and 2359)
+4 - Systolic Blood Pressure (Numerical value)
+5 - Diastolic Blood Pressure (Numerical value)
+6 - Temperature (Numerical value)
+7 - Nurse (Chosen from the list)
+
+Once the form is completed, click on the record measurement button. If the data entered is valid, a message box
+will pop on screen confirming the measurement has been recorded. If it is unsuccessful an error message appears.
+
+Alternatively, the user can click on the cancel button to return to the home page.
+
+For more information please contact developers at mrtomscott98@gmail.com
+
+Thank you.
